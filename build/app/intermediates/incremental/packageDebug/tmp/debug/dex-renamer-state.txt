@@ -1,0 +1,4 @@
+#Tue Mar 12 10:28:09 IST 2024
+base.0=/Users/chirag/Desktop/Flutter_Course_Final/Car_Zone_Rent/catalog_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
